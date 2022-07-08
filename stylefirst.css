@@ -1,0 +1,71 @@
+input {
+border: none;
+border-bottom: 1px solid black;
+font-size: 25px;
+}
+
+label{
+	font-size: 25px;
+}
+
+.btn {
+    background-color: brown;
+    color: white;
+    outline: none;
+    border: none;
+    border-radius: 5px;
+    margin-top: 15%;
+    margin-left: 10%;
+    width: 125px;
+    font-size: 25px;
+}
+
+.navbar {
+    width: 100%;
+    display: flex;
+    align-items: center;
+    width: 80%;
+    margin: auto;
+}
+
+.logo {
+    width: 120px;
+    cursor: pointer;
+    margin: 30px 0;
+}
+
+.menu-icon {
+    width: 40px;
+    cursor: pointer;
+    display: none;
+}
+
+nav {
+    flex: 1;
+    text-align: right;
+}
+
+nav ul li {
+    list-style: none;
+    display: inline-block;
+    margin-right: 30px;
+}
+
+nav ul li a {
+    text-decoration: none;
+    color: black;
+    font-size: 14px;
+}
+
+nav ul li a:hover {
+    color: #923434;
+}
+
+h1{
+	font-size: 400%;
+}
+
+h5{
+	margin-bottom: 10%;
+}
+

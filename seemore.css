@@ -1,0 +1,11 @@
+.scrolll{
+    overflow-x: hidden;
+    overflow-y: auto;
+    border: 3px solid black;
+}
+
+.scrolll > .row{
+    overflow-x: hidden;
+    overflow-y: auto;
+    border: 3px solid black;
+}

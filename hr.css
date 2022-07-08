@@ -1,0 +1,29 @@
+h1{
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: 550;
+}
+
+label{
+    font-size: 120%;
+    font-weight: 550;
+}
+
+a{
+    text-decoration: none;
+}
+
+.scrolll{
+    overflow-x: hidden;
+    overflow-y: auto;
+    border: 3px solid black;
+}
+
+.scrolll > .row{
+    overflow-x: hidden;
+    overflow-y: auto;
+    border: 3px solid black;
+}
+
+.active-cyan-3 input[type=text] {
+    border: 2px solid gray;
+}
